@@ -1,0 +1,81 @@
+body {
+  font-family: Arial, sans-serif;
+  background: white;
+}
+
+.box {
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.logo {
+  width: 120px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 30px;
+  margin-bottom: 10px;
+}
+
+.text {
+  font-size: 14px;
+  margin-bottom: 25px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 2px solid #1d9bd1;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  background: #611f69;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.or {
+  margin: 25px 0;
+  font-size: 13px;
+}
+
+.buttons {
+  width: 100%;
+}
+
+.social {
+  width: 48%;
+  padding: 10px;
+  border: 1px solid gray;
+  background: white;
+  font-size: 14px;
+}
+
+.social img {
+  width: 16px;
+  vertical-align: middle;
+}
+
+.small {
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+.signin {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
